@@ -1,6 +1,7 @@
 # 🚀 Software Engineer | CSE Student @ BUET
 
-# 👋 Hello! I’m Tawhid Umar, a dedicated Computer Science and Engineering student at Bangladesh University of Engineering and Technology (BUET), with a passion for software development and ethical hacking. My journey in tech has been marked by hands-on experience in various programming languages and a keen interest in building secure and efficient applications.
+# 👋 Hello! I’m Tawhid Umar
+A dedicated Computer Science and Engineering student at Bangladesh University of Engineering and Technology (BUET), with a passion for software development and ethical hacking. My journey in tech has been marked by hands-on experience in various programming languages and a keen interest in building secure and efficient applications.
 # 🛠️ Skills & Expertise
 - Java: Advanced proficiency in developing applications, including extensive work in Android app development and backend solutions with Spring.
 - C++: Solid experience in system programming, algorithms, and performance optimization.
