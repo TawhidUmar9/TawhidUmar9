@@ -12,17 +12,17 @@
 
 ### About
 
-CSE undergrad at BUET. I build backend services, mobile apps, and ML pipelines — and I'm
-currently getting deeper into DevOps and cloud infrastructure to ship things properly at scale.
-
-Cybersecurity is a long-running interest: CTFs, wargames, and figuring out how systems break.
-Most of my day-to-day work sits at the intersection of full-stack engineering and applied ML —
+CSE undergrad at BUET. I enjoy creative problem solving and building software to industry
+standards — backend services, mobile apps, and ML pipelines designed to hold up in production.
+I'm currently getting deeper into DevOps and cloud infrastructure to ship systems properly at scale.
+Cybersecurity is a core interest alongside the engineering work.
+Most of my day-to-day sits at the intersection of full-stack engineering and applied ML —
 sensor-driven mobile apps, AI-integrated backends, and tools for specific communities.
 
 ```yaml
 location: Dhaka, Bangladesh
 education: BSc CSE, Bangladesh University of Engineering and Technology (BUET)
-interests: [cybersecurity, backend systems, mobile dev, applied ML, devops]
+interests: [cybersecurity, creative problem solving, backend systems, mobile dev, applied ML, devops]
 currently_exploring: [cloud infrastructure, CI/CD, container orchestration, production observability]
 ```
 
@@ -96,9 +96,10 @@ currently_exploring: [cloud infrastructure, CI/CD, container orchestration, prod
 
 ### What I Work On
 
-**Cybersecurity** — CTFs, wargames, and offensive security practice. I've worked through
-OverTheWire Bandit and picoCTF, and keep notes / tooling around challenge solving. I care
-about how systems fail under pressure, not just how they get built.
+**Cybersecurity** — I began with CTFs and wargames, and have since moved toward more
+structured practice in web application security. I also follow practitioners in the space to
+stay informed on security news and industry trends. I'm interested in how systems fail —
+and how to build them so they don't.
 
 **Mobile apps with hardware integrations** — React Native apps that talk to device sensors
 (accelerometers, GPS, compass), run background tasks, and handle offline-first local storage.
