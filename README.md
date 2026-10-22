@@ -19,12 +19,21 @@ Cybersecurity is a core interest alongside the engineering work.
 Most of my day-to-day sits at the intersection of full-stack engineering and applied ML —
 sensor-driven mobile apps, AI-integrated backends, and tools for specific communities.
 
+I'm based in Dhaka (UTC+6) and looking for remote backend, DevOps, and full-stack roles.
+
 ```yaml
-location: Dhaka, Bangladesh
+location: Dhaka, Bangladesh (UTC+6)
 education: BSc CSE, Bangladesh University of Engineering and Technology (BUET)
+open_to: [remote backend, remote devops, remote full-stack]
+stack: [Python, FastAPI, Node.js, React, TypeScript, PostgreSQL, Docker]
 interests: [cybersecurity, creative problem solving, backend systems, mobile dev, applied ML, devops]
 currently_exploring: [cloud infrastructure, CI/CD, container orchestration, production observability]
 ```
+
+### Recognition
+
+- **3rd place, Crisis Tech** — [July Hackathon 2026](https://hackathon2026.jrabd.org/showcase), for Acoustic Voice-Call Data Relay. It sends short payloads (SOS, GPS, small files) over ordinary 2G voice calls when the internet is down.
+- **Student Champion, Business Services** — [Bangladesh ICT & Innovation Awards 2026](https://awards.biin.org.bd/winners), for AgentIAM. Nine champions were named from 355 submissions.
 
 ---
 
@@ -96,30 +105,35 @@ currently_exploring: [cloud infrastructure, CI/CD, container orchestration, prod
 
 ### What I Work On
 
-**Cybersecurity** — I began with CTFs and wargames, and have since moved toward more
-structured practice in web application security. I also follow practitioners in the space to
-stay informed on security news and industry trends. I'm interested in how systems fail —
-and how to build them so they don't.
+**Full-stack platforms** — Products from UI through API to deployment. React or Next.js on the
+front, Node.js, Django, or FastAPI on the back, PostgreSQL underneath. That includes a survey
+and data-analysis platform, a supplier catalogue with OCR-assisted entry, a procurement system
+with a verifiable audit log, and a water-level tracking dashboard. Tests with Playwright;
+deploys with Docker, Nginx, and GitHub Actions.
 
-**Mobile apps with hardware integrations** — React Native apps that talk to device sensors
-(accelerometers, GPS, compass), run background tasks, and handle offline-first local storage.
-Earlier work was in native Android with Java.
+**Mobile** — React Native apps for Android and iOS: app structure, local SQLite, offline-first
+storage, and features that sit on device sensors (accelerometers, GPS, compass) and background
+tasks. Earlier native Android work was in Java.
 
-**AI-integrated backend services** — Production backends (FastAPI, Express) wired up with
-Gemini and local LLMs (Ollama) for tasks like document processing, OCR, alert aggregation,
-and NLP pipelines. Task queues with Celery/Redis for async workloads.
+**Backend services** — APIs in FastAPI, Django, Express, and Spring Boot. REST, WebSockets, and
+Celery with Redis for async work. Recent services cover document processing with OCR and LLMs,
+alert aggregation, and authorization for AI agents — bounded budgets per agent, policy
+enforcement, and an audit trail. PostgreSQL and Redis are the usual data layer.
 
-**ML on sensor & wearable data** — Pipelines that process raw accelerometer streams from
-wearables — cleaning, resampling, and running DTW-based template matching for human activity
-recognition.
+**DevOps** — Containers, Compose, Nginx, and CI on GitHub Actions, including image signing,
+SBOMs, and container scanning. Kubernetes manifests (k3s) on a live cluster for the agent
+authorization work. Currently learning AWS and Terraform.
 
-**Full-stack platforms** — End-to-end systems with FastAPI or Spring Boot on the backend,
-Next.js or React on the frontend, PostgreSQL, S3-compatible object storage, real-time
-WebSockets, and Docker Compose for deployment.
+**ML on sensor and wearable data** — Pipelines on raw accelerometer streams: cleaning,
+resampling, and DTW template matching for activity recognition.
 
-**Crisis-tech & community tools** — Systems designed around real constraints: data
-transmission over 2G voice calls during network blackouts via acoustic FSK modulation,
-Bangla-localized data analysis tools, and campus utility apps for the BUET community.
+**Cybersecurity** — I began with CTFs and wargames, and have since moved toward structured
+practice in web application security, including threat modeling on the systems above. I follow
+practitioners in the field to stay current. I'm interested in how systems fail, and how to
+build them so they don't.
+
+**Crisis-tech and community tools** — Work under hard constraints: short payloads over 2G voice
+calls when the network is down, Bangla-first data analysis tools, and campus utilities.
 
 ---
 
